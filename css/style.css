@@ -1,0 +1,34 @@
+body {
+    background-color:rgb(204, 139, 139);
+    margin-left: 20px;
+    margin-right: 200px;
+}
+
+h1 {
+    color: red;
+    font-family: fantasy;
+}
+
+h2 {
+    color: blue;
+    font-family: Arial;
+}
+ 
+h3
+{
+    color: green;
+    font-family: cursive;
+}
+
+header {
+    margin-bottom: 30px;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    width:200px;
+}
+
+.img_logo {
+    width: 30px;
+}
